@@ -20,10 +20,10 @@ Building a  React **Chartify** (Charts Application)
 
 ### External Dependencies
 <details>
-  <Summary>Installed this External Packages</Summary>
-  - `npm install chart.js@3.9.1 react-chartjs-2@4.3.1 date-fns@2.29.3`
-  - `npm install date-fns@2.29.3`
-  - `npm install html2canvas`
+<Summary>Installed this External Packages</Summary>
+- `npm install chart.js@3.9.1 react-chartjs-2@4.3.1 date-fns@2.29.3`
+- `npm install date-fns@2.29.3`
+- `npm install html2canvas`
 </details>
 
 
