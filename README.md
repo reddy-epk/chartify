@@ -1,4 +1,4 @@
-Building a  React **Podsify** (podcast Application) 
+Building a  React **Chartify** (Charts Application) 
 
 ### Refer to the image below:
 
