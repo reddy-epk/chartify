@@ -22,7 +22,7 @@ Building a  React **Chartify** (Charts Application)
 <details>
 <summary>Installed this External Packages</summary>
 
-- Download `npm install chart.js@3.9.1 react-chartjs-2@4.3.1 date-fns@2.29.3`
+-  `npm install chart.js@3.9.1 react-chartjs-2@4.3.1 date-fns@2.29.3`
 - `date-fns@2.29.3`
 - `html2canvas`
 </details>
