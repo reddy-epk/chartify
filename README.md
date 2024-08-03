@@ -1,4 +1,4 @@
-ilding a  React **Chartify** (Charts Application) 
+Building a  React **Chartify** (Charts Application) 
 <p>A production ready Chart Application </p>
 
 ### Refer to the image below:
